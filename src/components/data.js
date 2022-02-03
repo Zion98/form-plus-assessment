@@ -74,10 +74,6 @@ const DATA_BOX = [
 
 export const OPTIONS_DATE_ORDER = [
   {
-    value: "All",
-    label: "All",
-  },
-  {
     value: "Ascending",
     label: "Ascending",
   },
